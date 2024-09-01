@@ -20,8 +20,7 @@ I'm Manojkumar
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-05122A?style=for-the-badge&logo=openai)
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=microsoft-azure)
 
-## 🔥 My GitHub Stats :
-![Manojkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojkumar&show_icons=true&theme=radical)
+
 
 ## Connect with me:
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumargowd064@gmail.com)
