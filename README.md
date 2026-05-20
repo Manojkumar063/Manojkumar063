@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manoj Kumar
 
-🚀 Backend Engineer | Full-Stack Developer | DevOps & Cloud Enthusiast | AI/RAG Explorer
+🚀 Backend Engineer | Full-Stack Developer  AI/RAG Explorer
 
 I'm passionate about building scalable backend systems, cloud-native applications, and AI-powered AI solutions. I enjoy designing APIs, developing microservices, automating deployments, and integrating AI into real-world applications.
 
