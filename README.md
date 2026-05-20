@@ -1,59 +1,164 @@
-# 👋 Hi, I’m Manoj Kumar
+# 👋 Hi, I'm Manoj Kumar
 
-I'm a driven and curious tech enthusiast specializing in **Data Science** and **Artificial Intelligence**. With a strong foundation in **Python, SQL, Machine Learning, and Power BI**, I’m on a mission to build intelligent solutions that solve real-world problems and unlock business value through data and AI.
+🚀 Backend Engineer | Full-Stack Developer | DevOps & Cloud Enthusiast | AI/RAG Explorer
+
+I'm passionate about building scalable backend systems, cloud-native applications, and AI-powered AI solutions. I enjoy designing APIs, developing microservices, automating deployments, and integrating AI into real-world applications.
 
 ---
 
-## 👀 I’m interested in:
-- Data Science & Machine Learning
+## 👨‍💻 About Me
+
+- 💡 Tech enthusiast focused on Backend Development, DevOps, Cloud & AI
+- 🔭 Building scalable systems using Python, Node.js, Docker & Kubernetes
+- 🤖 Exploring Generative AI, LangChain, RAG pipelines & Vector Databases
+- ☁️ Interested in Cloud Infrastructure and System Design
+- 📈 Passionate about performance optimization, automation & distributed systems
+
+---
+
+## 👀 I’m Interested In
+
+- Backend Engineering & Microservices
 - Artificial Intelligence & Generative AI
-- LangChain, RAG (Retrieval-Augmented Generation)
-- Vector Databases (FAISS, Pinecone)
-- Cloud Platforms: AWS, Azure, GCP
-- LLM Applications & Agent Workflows
-- Data Engineering and Real-time Analytics
+- LangChain & RAG Applications
+- Cloud Platforms: AWS & Azure
+- Kubernetes & DevOps Automation
+- System Design & Scalable Architectures
+- Real-time Systems & Distributed Applications
 
 ---
 
-## 🌱 I’m currently learning:
-- Building LLM-powered apps using **LangChain**
-- Creating RAG pipelines with **FAISS & OpenAI embeddings**
-- Integrating AI with **Flask APIs** and **Streamlit dashboards**
-- Deploying solutions on **AWS EC2, Lambda & S3**
-- Advanced data wrangling & DAX in **Power BI**
-- Optimizing machine learning models for production
+## 🌱 I’m Currently Learning
+
+- Advanced Kubernetes & Cloud-Native Development
+- AI Agent Workflows with LangGraph
+- Scalable RAG Architectures
+- Infrastructure as Code with Terraform
+- Performance Engineering & Observability
+- Advanced System Design Concepts
 
 ---
 
-## 💞️ I’m looking to collaborate on:
-- AI-powered product development & open-source tools
-- LangChain and RAG-based applications
-- Real-world business use cases using LLMs
-- End-to-end ML/AI pipeline deployment
-- Data storytelling with visual dashboards
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+- Python
+- JavaScript
+- Node.js
+
+### ⚙️ Backend & Frameworks
+- FastAPI
+- Flask
+- Django
+- Express.js
+
+### 🎨 Frontend Technologies
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Next.js
+- React Native (Basic)
+
+### 🔌 API Development
+- RESTful APIs
+
+### 📦 DevOps & Cloud
+- Docker
+- Kubernetes
+- Terraform
+- AWS (EC2)
+- Microsoft Azure (Beginner)
+
+### 🔄 CI/CD & Version Control
+- Git
+- GitHub Actions
+- GitLab CI
+- Jenkins
+
+### 🗄 Databases
+- MongoDB
+- MySQL
+- Redis
+
+### 📡 Messaging & Streaming
+- Kafka
+
+### 🏗 Architecture & Systems
+- Microservices Architecture
+- Monolithic Architecture
+- System Design
+- Networking
+- Operating Systems
+
+### 🔐 Security
+- JWT Authentication
+- RBAC
+- Secrets Management
+- Keycloak
+
+### 🧪 Testing & Quality Engineering
+- Cypress Testing
+- Locust Testing
+- Unit Testing
+- API Testing (Postman, Newman)
+
+### 📈 Performance Engineering
+- Caching
+- Load Balancing
+- Rate Limiting
+
+### 🤖 AI & Machine Learning
+- Machine Learning Fundamentals
+- LangChain
+- LangGraph
+- RAG (Retrieval-Augmented Generation)
+
+#### Vector Databases
+- FAISS
+- Pinecone
+- Chroma
+- Weaviate
+- Milvus
+
+### 🧠 Computer Science Fundamentals
+- Data Structures & Algorithms
+- Time & Space Complexity Analysis
 
 ---
 
-## 📫 How to reach me:
-- 📍 Bengaluru, Karnataka, India  
-- 📧 manojkumargowd063@gmail.com  
-- 📱 +91 8309304618  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-605694232)  
-- 💻 [GitHub](https://github.com/Manojkumar063)  
-- 🌐 [Portfolio](https://www.datascienceportfol.io/manojkumar271102)
+## 💞️ Open To Collaborate On
+
+- AI-powered applications
+- Open-source backend tools
+- LangChain & RAG projects
+- Cloud-native applications
+- Scalable microservices architectures
+- Full-stack & DevOps projects
 
 ---
 
-## 😄 Pronouns:
+## 📫 Connect With Me
+
+📍 Bengaluru, Karnataka, India  
+📧 manojkumargowd063@gmail.com  
+💼 LinkedIn: Your LinkedIn URL  
+💻 GitHub: Your GitHub URL  
+🌐 Portfolio: Your Portfolio URL  
+
+---
+
+## 😄 Pronouns
 He/Him
 
 ---
 
-## ⚡ Fun fact:
-I love combining code with creativity — from training machine learning models to crafting GenAI workflows and dreaming of tech-driven businesses in my hometown.  
+## ⚡ Fun Fact
+
+I love combining code with creativity — from building scalable APIs to crafting AI-powered workflows and cloud-native systems.  
+
 Also... I never skip leg day at the gym! 💪🤖
 
 ---
 
-> "The future belongs to those who can blend data, code, and imagination — one AI project at a time."
-
+⭐ Always learning, building, and improving.
