@@ -143,8 +143,8 @@ I'm passionate about building scalable backend systems, cloud-native application
 📍 Bengaluru, Karnataka, India  
 📧 manojkumargowd063@gmail.com  
 💼 LinkedIn: Your LinkedIn URL  
-💻 GitHub: Your GitHub URL  
-🌐 Portfolio: Your Portfolio URL  
+💻 GitHub: [https://github.com/Manojkumar063](https://github.com/Manojkumar063)
+🌐 Portfolio: [(https://github.com/Manojkumar063](https://github.com/Manojkumar063)  
 
 ---
 
